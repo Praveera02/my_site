@@ -1,0 +1,15 @@
+body {
+    background-color: powderblue;
+  }
+  h1 {
+    color: black;
+  }
+  p {
+    color: rgb(17, 37, 152);
+  }
+  ul{
+    color:rgb(17, 37, 152)
+  }
+  table{
+    color: rgb(17, 37, 152);
+  }
